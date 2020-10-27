@@ -2,4 +2,4 @@ classes = 1
 train = data/50um_cavities/train.txt
 valid = data/50um_cavities/test.txt
 names = data/50um_cavities/obj.names
-backup = /mydrive/yolov4_50um_cavities/backup/
+backup = /mydrive/yolov4_50um_cavities/backup
