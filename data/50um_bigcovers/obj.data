@@ -2,4 +2,4 @@ classes = 1
 train = data/50um_bigcovers/train.txt
 valid = data/50um_bigcovers/test.txt
 names = data/50um_bigcovers/obj.names
-backup = /mydrive/yolov4_50um_bigcovers/backup
+backup = /mydrive/bigcovers/backup
