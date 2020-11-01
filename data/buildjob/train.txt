@@ -4,7 +4,6 @@ data/buildjob/obj/build_job_gray_250um_5th.tiff_0004.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0005.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0006.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0007.jpg
-data/buildjob/obj/build_job_gray_250um_5th.tiff_0008.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0009.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0010.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0011.jpg
@@ -19,8 +18,6 @@ data/buildjob/obj/build_job_gray_250um_5th.tiff_0026.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0028.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0029.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0030.jpg
-data/buildjob/obj/build_job_gray_250um_5th.tiff_0031.jpg
-data/buildjob/obj/build_job_gray_250um_5th.tiff_0032.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0033.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0036.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0037.jpg
@@ -33,7 +30,6 @@ data/buildjob/obj/build_job_gray_250um_5th.tiff_0043.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0045.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0046.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0047.jpg
-data/buildjob/obj/build_job_gray_250um_5th.tiff_0048.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0049.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0050.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0051.jpg
@@ -67,8 +63,6 @@ data/buildjob/obj/build_job_gray_250um_5th.tiff_0087.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0088.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0089.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0090.jpg
-data/buildjob/obj/build_job_gray_250um_5th.tiff_0091.jpg
-data/buildjob/obj/build_job_gray_250um_5th.tiff_0092.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0093.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0094.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0095.jpg
@@ -91,7 +85,6 @@ data/buildjob/obj/build_job_gray_250um_5th.tiff_0113.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0115.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0116.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0117.jpg
-data/buildjob/obj/build_job_gray_250um_5th.tiff_0119.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0121.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0122.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0123.jpg
@@ -123,7 +116,6 @@ data/buildjob/obj/build_job_gray_250um_5th.tiff_0159.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0160.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0161.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0162.jpg
-data/buildjob/obj/build_job_gray_250um_5th.tiff_0165.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0166.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0167.jpg
 data/buildjob/obj/build_job_gray_250um_5th.tiff_0169.jpg
@@ -168,7 +160,6 @@ data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0002.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0003.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0005.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0006.jpg
-data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0007.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0008.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0009.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0010.jpg
@@ -216,14 +207,12 @@ data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0066.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0068.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0069.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0070.jpg
-data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0071.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0072.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0073.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0074.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0075.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0076.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0077.jpg
-data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0079.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0081.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0082.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0083.jpg
@@ -249,7 +238,6 @@ data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0108.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0109.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0110.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0111.jpg
-data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0112.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0113.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0114.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0116.jpg
@@ -257,7 +245,6 @@ data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0117.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0118.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0121.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0122.jpg
-data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0124.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0126.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0127.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0129.jpg
@@ -297,8 +284,6 @@ data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0176.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0177.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0178.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0179.jpg
-data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0180.jpg
-data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0182.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0183.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0185.jpg
 data/buildjob/obj/build_job_gray_250um_5th_upper.tiff_0188.jpg
