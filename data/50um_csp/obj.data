@@ -1,0 +1,5 @@
+classes = 1
+train = data/50um_csp/train.txt
+valid = data/50um_csp/test.txt
+names = data/50um_csp/obj.names
+backup = /mydrive/50um_csp/backup

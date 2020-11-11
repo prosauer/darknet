@@ -1,0 +1,5 @@
+classes = 1
+train = data/50um_bigholes_1set/train.txt
+valid = data/50um_bigholes_1set/test.txt
+names = data/50um_bigholes_1set/obj.names
+backup = /mydrive/bigholes_1set/backup

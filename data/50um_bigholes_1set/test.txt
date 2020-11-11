@@ -1,0 +1,8 @@
+data/50um_bigholes/valid/C1000_bw_50um_1th_lower_BL_0002.jpg
+data/50um_bigholes/valid/C1000_bw_50um_1th_lower_BL_0017.jpg
+data/50um_bigholes/valid/C1000_bw_50um_1th_lower_BL_0052.jpg
+data/50um_bigholes/valid/C1000_bw_50um_1th_lower_BL_0065.jpg
+data/50um_bigholes/valid/C1000_bw_50um_1th_lower_UL_0008.jpg
+data/50um_bigholes/valid/C2000_bw_50um_1th_lower_BL_0007.jpg
+data/50um_bigholes/valid/C2000_bw_50um_1th_lower_BL_0010.jpg
+data/50um_bigholes/valid/C2000_bw_50um_1th_lower_BL_0045.jpg
