@@ -1,0 +1,5 @@
+classes = 2
+train = data/50um_big_cavs_covers/train.txt
+valid = data/50um_big_cavs_covers/test.txt
+names = data/50um_big_cavs_covers/obj.names
+backup = /mydrive/big_cavs_covers/backup

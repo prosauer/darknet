@@ -1,0 +1,14 @@
+data/big_cavs_covers/valid/C1000_bw_50um_1th_lower_BL_0002.jpg
+data/big_cavs_covers/valid/C1000_bw_50um_1th_lower_BL_0017.jpg
+data/big_cavs_covers/valid/C1000_bw_50um_1th_lower_BL_0033_3mm.jpg
+data/big_cavs_covers/valid/C1000_bw_50um_1th_lower_BL_0052.jpg
+data/big_cavs_covers/valid/C1000_bw_50um_1th_lower_BL_0065.jpg
+data/big_cavs_covers/valid/C1000_bw_50um_1th_lower_BL_2mm.jpg
+data/big_cavs_covers/valid/C1000_bw_50um_1th_lower_BM_2mm.jpg
+data/big_cavs_covers/valid/C1000_bw_50um_1th_lower_BM_3mm.jpg
+data/big_cavs_covers/valid/C1000_bw_50um_1th_lower_UL_0008.jpg
+data/big_cavs_covers/valid/C2000_bw_50um_1th_lower_BL_0007.jpg
+data/big_cavs_covers/valid/C2000_bw_50um_1th_lower_BL_0010.jpg
+data/big_cavs_covers/valid/C2000_bw_50um_1th_lower_BL_0045.jpg
+data/big_cavs_covers/valid/C2000_bw_50um_1th_upper_TL_3mm_4mm.jpg
+data/big_cavs_covers/valid/C2000_bw_50um_1th_upper_TR_3mm_4mm.jpg
