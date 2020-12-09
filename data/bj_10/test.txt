@@ -1,0 +1,3 @@
+data/bj_10/valid/bj_10th_0012.jpg
+data/bj_10/valid/bj_10th_0020.jpg
+data/bj_10/valid/bj_10th_0031.jpg
