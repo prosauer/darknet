@@ -1,5 +1,5 @@
 classes = 3
-train = data/buildjob/train.txt
-valid = data/buildjob/test.txt
-names = data/buildjob/obj.names
+train = data/bj_10/train.txt
+valid = data/bj_10/test.txt
+names = data/bj_10/obj.names
 backup = /mydrive/bj_10/backup
